@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
 
       ),
       body: Center(
-        child: Text("Sindhi Geo"),
+        child: Text("Pakistan zindabad"),
         ),
       ),
 
