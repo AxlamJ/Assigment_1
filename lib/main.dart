@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
 
       ),
       body: Center(
-        child: Text("Muhammad Aslam Jalbani"),
+        child: Text("Muhammad Aslam Geo"),
         ),
       ),
 
